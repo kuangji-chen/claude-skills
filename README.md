@@ -25,6 +25,8 @@ Many skills in this repo are open source (Apache 2.0). We've also included the d
 - [./skills](./skills): Skill examples for Creative & Design, Development & Technical, Enterprise & Communication, and Document Skills
 - [./spec](./spec): The Agent Skills specification
 - [./template](./template): Skill template
+- [./docs](./docs): Design guides and documentation
+  - [Skill Design Guide](./docs/skill-design-guide.md): Comprehensive guide for designing complex skills with patterns from the PPTX skill
 
 # Try in Claude Code, Claude.ai, and the API
 
